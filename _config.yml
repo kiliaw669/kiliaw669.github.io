@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: liliazhen669 # the main title
+title: kiliaw669 # the main title
 
 tagline: A personal blog # it will display as the sub-title
 
@@ -23,11 +23,11 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://liliazhen669.github.io"
+url: "https://kiliaw669.github.io"
 # "https://github.com/winka9587/winka9587.github.io"
 
 github:
-  username: liliazhen669 # change to your github username
+  username: kiliaw669 # change to your github username
 
 twitter:
   username:  # change to your twitter username
@@ -35,12 +35,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: liliazhen669
+  name: kiliaw669
   email: wangzh669@mail2.sysu.edu.cn # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/liliazhen669 # change to your github homepage
+    - https://github.com/kiliaw669 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
